@@ -1,0 +1,243 @@
+Method=GET 
+ Url=/auth 
+ Time=2026-05-24T08:27:41.372Z
+
+Method=GET 	 Url=/users 	 Time=2026-05-24T08:28:13.925Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:34:14.212Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:34:57.282Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:35:55.196Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:36:14.493Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:36:16.384Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:37:02.426Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:37:36.169Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:37:37.201Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:37:38.015Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:37:38.768Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:37:39.800Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:37:44.303Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:38:46.933Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:38:48.574Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:39:10.402Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:39:26.068Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:39:27.136Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:39:28.037Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:39:30.092Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:39:32.373Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:39:34.492Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:39:36.018Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:39:37.642Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:39:45.737Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:39:47.003Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:39:47.896Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:39:48.730Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:39:49.378Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:39:50.016Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:39:50.364Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:39:51.121Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:39:53.436Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-24T08:39:54.158Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:40:21.776Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:40:24.124Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:40:26.217Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:47:09.428Z
+
+Method=POST 	 Url=/api/auth/login 	 Time=2026-05-24T08:50:55.982Z
+
+Method=POST 	 Url=/api/auth/login 	 Time=2026-05-24T08:50:58.295Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:52:46.005Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:53:38.870Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:57:07.480Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:57:15.931Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:57:33.560Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:57:36.572Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:57:38.730Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:57:40.323Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T08:57:41.940Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T09:05:50.098Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T09:06:05.668Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T09:06:22.500Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T09:10:19.966Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T09:12:09.920Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T09:12:38.970Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T09:12:41.987Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T09:13:47.820Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T09:13:49.463Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T09:17:03.966Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T09:17:06.758Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T09:17:08.766Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T09:17:10.975Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T09:20:50.403Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:10:43.060Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:13:15.828Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:13:20.019Z
+
+Method=POST 	 Url=/api/auth/login 	 Time=2026-05-24T10:13:48.197Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:14:14.768Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:14:16.475Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:14:19.951Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:14:22.612Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:14:23.820Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:14:24.940Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:14:26.171Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:14:56.510Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:15:10.075Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:15:13.228Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:18:05.280Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:18:08.940Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T10:19:46.455Z
+
+Method=POST 	 Url=/api/auth/signUp 	 Time=2026-05-24T10:24:31.953Z
+
+Method=POST 	 Url=/api/auth/signUp 	 Time=2026-05-24T10:24:51.417Z
+
+Method=POST 	 Url=/api/auth/signUp 	 Time=2026-05-24T10:24:53.933Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:25:02.896Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:25:04.878Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:25:06.816Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:25:08.938Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:25:34.118Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:25:36.361Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:25:38.144Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:25:39.697Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:25:41.218Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:26:01.147Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:26:03.263Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:26:05.621Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:26:07.168Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:26:11.035Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:26:13.358Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:26:49.788Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:27:40.882Z
+
+Method=POST 	 Url=/api/auth/logIn 	 Time=2026-05-24T10:27:42.452Z
+
+Method=GET 	 Url=/ 	 Time=2026-05-24T11:50:21.355Z
+
+Method=GET 	 Url=/favicon.ico 	 Time=2026-05-24T11:50:21.397Z
+
+Method=GET 	 Url=/ 	 Time=2026-05-24T11:50:31.779Z
+
+Method=GET 	 Url=/ 	 Time=2026-05-24T11:50:37.160Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T11:50:56.884Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T11:51:01.927Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T11:51:04.295Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T11:51:06.650Z
+
+Method=GET 	 Url=/api/issues 	 Time=2026-05-24T11:51:09.072Z
+
+Method=POST 	 Url=/api/auth 	 Time=2026-05-24T11:51:19.527Z
+
+Method=POST 	 Url=/api/auth 	 Time=2026-05-24T11:51:21.229Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-26T09:54:03.207Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-26T09:54:20.359Z
+
+Method=POST 	 Url=/api/auth/login 	 Time=2026-05-26T09:54:40.605Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-26T09:55:32.035Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-26T10:08:54.322Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-26T10:51:49.953Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-26T10:57:25.205Z
+
+Method=POST 	 Url=/api/issues 	 Time=2026-05-26T11:41:43.925Z
